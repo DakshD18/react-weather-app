@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import WeatherForm from './WeatherForm';
+import './App.css';
 
 function App() {
   //state declaration
